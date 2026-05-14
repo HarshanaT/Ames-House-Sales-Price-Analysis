@@ -16,11 +16,11 @@ Target Variable: Sale Price (USD)
 
 ## Methodology
 
-Data Cleaning — Handled missing values and removed outliers
-EDA — Analysed feature distributions and correlations with sale price
-Feature Engineering — Log-transformed target variable; one-hot encoded categorical features (78 → 217 features)
-Modelling — Trained OLS, Ridge, and LASSO regression models with cross-validated hyperparameter tuning
-Evaluation — Compared models using R², RMSE, and MAE on a 30% held-out test set
+- Data Cleaning — Handled missing values and removed outliers
+- EDA — Analysed feature distributions and correlations with sale price
+- Feature Engineering — Log-transformed target variable; one-hot encoded categorical features (78 → 217 features)
+- Modelling — Trained OLS, Ridge, and LASSO regression models with cross-validated hyperparameter tuning
+- Evaluation — Compared models using R², RMSE, and MAE on a 30% held-out test set
 
 ## Results
 
