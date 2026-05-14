@@ -24,6 +24,6 @@ Target Variable: Sale Price (USD)
 
 ## Results
 
-OLS: R² = 0.9248, RMSE = $22,698, MAE = $14,081
-Ridge: R² = 0.9241, RMSE = $22,806, MAE = $13,883
-LASSO: R² = 0.9306, RMSE = $21,814, MAE = $13,780 (best performing model)
+- OLS: R² = 0.9248, RMSE = $22,698, MAE = $14,081
+- Ridge: R² = 0.9241, RMSE = $22,806, MAE = $13,883
+- LASSO: R² = 0.9306, RMSE = $21,814, MAE = $13,780 (best performing model)
